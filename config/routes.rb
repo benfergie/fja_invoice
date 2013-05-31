@@ -1,4 +1,6 @@
 FjaInvoice::Application.routes.draw do
+  root :to => 'employees#index'
+
   resources :timesheets
 
 
