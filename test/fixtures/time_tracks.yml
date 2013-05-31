@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  task: MyString
+  hours: 9.99
+  enddate: 2013-05-31
+
+two:
+  task: MyString
+  hours: 9.99
+  enddate: 2013-05-31
